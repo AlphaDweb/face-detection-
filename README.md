@@ -46,7 +46,7 @@ This repository implements a **Face Recognition and Email Alert System** using *
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/face-recognition-email-alert.git
+https://github.com/AlphaDweb/face-detection-.git
 cd face-recognition-email-alert
 ```
 
